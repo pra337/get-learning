@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from setuptools import setup, find_packages
 
 setup(
@@ -19,4 +13,3 @@ setup(
     author='Your Name',
     author_email='your.email@example.com',
 )
-
